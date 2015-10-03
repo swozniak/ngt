@@ -31,7 +31,7 @@
 				<li class="ngt-menu-item"><a target="_blank" href="https://www.facebook.com/nevergettiredmovie"><i class="fa fa-facebook-official"></i></a></li>
 				<li class="ngt-menu-item"><a target="_blank" href="mailto:sara@nofuturefilms.com"><i class="fa fa-envelope-o"></i></a></li>
 			</ul>
-		</div>
+		</section>
 	</header>
 
 	<div class="ngt-container">
@@ -62,7 +62,7 @@
 				
 				<article class="ngt-screening">
 					<strong>10/7: Los Angeles, CA. SideOneDummy. 7:30pm.</strong><br />
-					Q+A with filmmakers after the screening.</br>
+					Q+A with filmmakers after the screening.<br />
 					Must RSVP! BYO Chair! Suggested donation $5.<br />
 					<a target="_blank" href="https://www.facebook.com/events/1476686852633066/">RSVP &amp; Event Info</a>
 				</article>
@@ -75,7 +75,7 @@
 
 				<article class="ngt-screening">
 					<strong>11/30: Chicago, IL. Beat Kitchen. 7pm.</strong><br />
-					Q+A with filmmakers after the screening.</br>
+					Q+A with filmmakers after the screening.<br />
 					Tickets are $10.<br />
 					<a target="_blank" href="https://www.ticketfly.com/purchase/event/968261">Tickets</a> / <a target="_blank" href="https://www.facebook.com/events/1476686852633066/">Event Info</a>
 				</article>
