@@ -1,0 +1,17 @@
+.ngt-footer-text-container {
+	max-width: 960px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.ngt-footer-text {
+	display: inline-block;
+	margin: -48px 0 30px;
+	float: right;
+	padding: 0.6em;
+	color: $white;
+	background: $black;
+	font-size: 0.8em;
+	text-transform: uppercase;
+	@include transform(rotateZ(-0.666deg));
+}

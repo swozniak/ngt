@@ -1,0 +1,20 @@
+.ngt-faq-question {
+    background-color: $black-transparent-80;
+    display: inline-block;
+    text-transform: uppercase;
+    padding: 0.5em;
+    font-weight: bold;
+    font-size: 1.666em;
+    @include transform(rotateZ(-1deg));
+    margin: 1.2em 0 0.3em;
+
+}
+.ngt-faq-answer {
+	padding: 0.8em;
+    font-size: 1.11em;
+    background: $black-transparent-60;
+    display: block;
+    line-height: 1.6em;
+    margin: 0 -1em 0 1em;
+    max-width: 600px;
+}

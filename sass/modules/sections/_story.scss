@@ -1,0 +1,25 @@
+.ngt-story-p-container {
+	width: 100%;
+	display: inline-block;
+	margin-bottom: 1.4em;
+
+	p {
+		font-size: 1.1em;
+		line-height: 1.6em;
+		background: $black-transparent-70;
+		padding: 0.4em 0.8em;
+		margin: 0 -1em;
+		max-width: 600px;
+		@include transform(rotateZ(-0.5deg));
+	}
+
+	&:nth-child(2n) {
+		text-align: right;
+
+		p {
+			float: right;
+			text-align: right;
+			@include transform(rotateZ(0.5deg));
+		}
+	}
+}

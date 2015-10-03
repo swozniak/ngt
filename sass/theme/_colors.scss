@@ -1,0 +1,18 @@
+/* Main colors */
+$black: rgba(1, 0, 5, 1);
+$pink: #efa0bd;
+$orange: #F6A176;
+$yellow: #FDF051;
+$white: #fff;
+
+
+/* Transparent colors (higher # = more transparent) */
+$black-transparent-90: rgba(1, 0, 5, 0.9);
+$black-transparent-80: rgba(1, 0, 5, 0.8); // Used for section h2 backgrounds and FAQ questions
+$black-transparent-70: rgba(1, 0, 5, 0.7); // Used for the sticky header background and FAQ answers
+$black-transparent-60: rgba(1, 0, 5, 0.6);
+$black-transparent-50: rgba(1, 0, 5, 0.5);
+$black-transparent-40: rgba(1, 0, 5, 0.4);
+$black-transparent-30: rgba(1, 0, 5, 0.3);
+$black-transparent-20: rgba(1, 0, 5, 0.2);
+$black-transparent-10: rgba(1, 0, 5, 0.1)

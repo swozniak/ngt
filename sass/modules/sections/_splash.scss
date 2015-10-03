@@ -1,0 +1,26 @@
+.ngt-splash {
+	min-height: inherit;
+	background-size: cover;
+	padding: 0 10%;
+	text-align: center;
+
+	.ngt-title {
+		padding: 4.5em 0 1em;
+		background: $black-transparent-30;
+	}
+
+
+	.ngt-trailer {
+		max-width: 600px;
+		margin: 0 auto;
+		text-align: center;
+	}
+
+	.ngt-subhead-container {
+		background: $black-transparent-30;
+		border-radius: 4px;
+		padding: 0.8em 0 1.5em;
+		max-width: 720px;
+		margin: 0 auto;
+	}
+}

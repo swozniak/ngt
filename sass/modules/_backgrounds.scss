@@ -1,0 +1,24 @@
+.ngt-splash {
+	background-image: url('images/backgrounds/overhead.jpg');
+	background-attachment: fixed;
+}
+
+.ngt-story {
+	background: $black url("images/backgrounds/blue.jpg");
+	background-size: cover;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+}
+
+.ngt-contact {
+	background-image: url("images/backgrounds/eureka.jpg");
+	background-size: cover;
+	padding: 15vh 10% 20vh;
+	background-repeat: no-repeat;
+}
+
+.ngt-faq {
+	background-image: url("images/backgrounds/lastshow.jpg");
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+}

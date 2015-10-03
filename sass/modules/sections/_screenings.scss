@@ -1,0 +1,13 @@
+.ngt-screenings {
+  	background: url('images/backgrounds/jeffjohn.jpg') no-repeat;
+  	background-size: cover;
+	min-height: 300px;
+
+	.ngt-screening {
+	    margin: 0.8em;
+	    padding: 0.8em 1em;
+	    font-size: 1.11em;
+	    background: $black-transparent-70;
+	    display: block;
+	}
+}

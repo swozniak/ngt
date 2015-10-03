@@ -1,0 +1,38 @@
+/* 
+ * How to use:
+ * To build style.css, run "compass compile" from one level above the sass directory
+ * To update style.css as you go, run "compass watch" from one level above the sass directory
+ */
+
+@import "compass";
+@import "compass/css3/transform";
+
+// Theme
+@import "theme/colors";
+@import "theme/typography";
+
+// Base 
+@import "base/normalize";
+@import "base/bootstrap_3_grid";
+@import "base/bootstrap_overrides";
+@import "base/body";
+
+// Layouts
+@import "layouts/header";
+@import "layouts/footer";
+@import "layouts/page";
+
+// Modules
+@import "modules/backgrounds";
+@import "modules/youtube";
+
+@import "modules/sections/splash";
+@import "modules/sections/screenings";
+@import "modules/sections/story";
+@import "modules/sections/contact";
+@import "modules/sections/faq";
+@import "modules/sections/backers";
+
+// States 
+@import "states/media_queries";
+@import "states/ie";

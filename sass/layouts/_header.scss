@@ -1,0 +1,31 @@
+.ngt-header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 31142069;
+    padding: 0 2em;
+	height: 60px;
+    background-color: rgba(1, 0, 5, 0.67);
+    line-height: 60px;
+}
+
+.nff-logo {
+	position: absolute;
+	left: 2em;
+}
+
+.ngt-social {
+	position: absolute;
+	right: 2em;
+	margin: 0;
+}
+
+.ngt-menu-item {
+	float: left;
+	position: relative;
+	display: block;
+	text-transform: uppercase;
+	font-size: 32px;
+	margin-left: 0.4em;
+}

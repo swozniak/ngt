@@ -1,0 +1,30 @@
+body {
+	color: $white;
+}
+
+/* @include animation(color_change 0.5s infinite alternate);
+@-webkit-keyframes color_change {
+	0% { color: $pink; }
+	50% { color: $orange; }
+	100% { color: $yellow; }
+}
+@-moz-keyframes color_change {
+	0% { color: $pink; }
+	50% { color: $orange; }
+	100% { color: $yellow; }
+}
+@-ms-keyframes color_change {
+	0% { color: $pink; }
+	50% { color: $orange; }
+	100% { color: $yellow; }
+}
+@-o-keyframes color_change {
+	0% { color: $pink; }
+	50% { color: $orange; }
+	100% { color: $yellow; }
+}
+@keyframes color_change {
+	0% { color: $pink; }
+	50% { color: $orange; }
+	100% { color: $yellow; }
+} */

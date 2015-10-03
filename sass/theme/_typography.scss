@@ -1,0 +1,58 @@
+$body-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+$headline-family: "Helvetica Neue", "Helvetica", "Arial",  sans-serif;
+
+body, p {
+	font-family: $body-family;
+	-webkit-font-smoothing: antialiased;
+}
+
+p {
+	letter-spacing: -0.03em;
+}
+
+a {
+	color: $yellow;
+	font-weight: bold;
+	
+	&:hover, &:active {
+		color: $pink;
+	}
+}
+
+h1 {
+	font-family: $headline-family;
+	letter-spacing: 0.02em;
+	color: $white;
+}
+h2 {
+	font-family: $headline-family;
+	margin: 0.2em 0;
+	letter-spacing: 0.02em;
+	color: $white;
+
+	font-size: 3.11em;
+	padding: 0.2em;
+	background: $black-transparent-90;
+	display: inline-block;
+}
+h3 {
+	font-family: $headline-family;
+	margin: 0;
+	letter-spacing: 0.02em;
+	color: $white;
+}
+h4 {
+	font-family: $headline-family;
+	letter-spacing: 0.02em;
+	color: $white;
+}
+h5 {
+	font-family: $headline-family;
+	letter-spacing: 0.02em;
+	color: $white;
+}
+h6 {
+	font-family: $headline-family;
+	letter-spacing: 0.02em;
+	color: $white;
+}
