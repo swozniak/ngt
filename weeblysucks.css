@@ -722,3 +722,8 @@ body {
 object {
   width: 100%; }
 
+.img-responsive {
+display: block;
+  height: auto;
+  max-width: 100%;
+}
